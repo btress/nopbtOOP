@@ -1,0 +1,5 @@
+sai chổ 
+Animal animal4 = new Animal();
+vì abtract là 1 lớp trừu tượng dùng để khai bao phương thức nên ko thể tạo 1 object đc
+sai chổ
+Cat cat2 = (Cat)animal2; vì animal2 là đối tượng bên lớp Dog (Animal animal2 = new Dog();) nên ko thể qua kiểu Cat đc
